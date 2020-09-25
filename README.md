@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## PopulateDummyDatabase
 The purpose is to implement Django application with User and ActivityPeriod models, write
 a custom management command to populate the database with some dummy data.and design an 
@@ -83,3 +84,6 @@ $ python manage.py populatedata 100
 
 $ python manage.py runserver
 ```
+=======
+# PopulateDummyUserData
+>>>>>>> 1f5d4f11f83a969c1287ad6be03355d14e8a1b72
